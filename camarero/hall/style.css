@@ -1,0 +1,209 @@
+a {
+    text-decoration: none; /* Удаление декораций ссылок */
+}
+
+li {
+    list-style: none; /* Удаление декораций ссылок */
+}
+
+body {
+    font-family: 'Nanum Gothic', sans-serif; /* Свойства шрифтов */
+    font-family: 'Monoton', cursive;
+}
+.NavLine {
+    position: absolute;
+    width: 100vw;
+    height: 8vw;
+    left: 0px;
+    top: 0px;
+
+
+    background: #725252;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.Logo1 {
+    position: absolute;
+    width: 210px;
+    height: 44px;
+    left: 3%;
+    top: 2vw;
+
+    font-family: Monoton;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 40px;
+
+    color: #FFFFFF;
+}
+
+.Menu {
+    position: absolute;
+    width: 159px;
+    height: 62px;
+    left: 45%;
+    top: 1vw;
+
+    font-family: Monoton;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 75px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.FoodCard1 {
+    position: absolute;
+    width: 389px;
+    height: 478px;
+    left: 63px;
+    top: 142px;
+}
+
+.FoodCard2 {
+    position: absolute;
+    width: 389px;
+    height: 478px;
+    left: 566px;
+    top: 142px;
+}
+
+.FoodCard3 {
+    position: absolute;
+    width: 389px;
+    height: 478px;
+    left: 63px;
+    top: 654px;
+}
+
+.FoodCard4 {
+    position: absolute;
+    width: 389px;
+    height: 478px;
+    left: 566px;
+    top: 654px;
+}
+
+.BotLine {
+    position: absolute;
+    width: 911px;
+    height: 440px;
+    left: 57px;
+    top: 1226px;
+}
+
+.Soup1 {
+    position: absolute;
+    width: 892px;
+    height: 478px;
+    left: 63px;
+    top: 142px;
+}
+
+/*.BasketBut {
+    position: absolute;
+    width: 59px;
+    height: 62px;
+    left: 926px;
+    top: 27px;
+}
+*/
+
+.Soup2 {
+    position: absolute;
+    width: 892px;
+    height: 478px;
+    left: 63px;
+    top: 658px;
+}
+
+.Soup3 {
+    position: absolute;
+    width: 892px;
+    height: 478px;
+    left: 63px;
+    top: 1165px;
+}
+
+.Soup4 {
+    position: absolute;
+    width: 892px;
+    height: 478px;
+    left: 63px;
+    top: 1666px;
+}
+
+.Meal1 {
+    position: absolute;
+    width: 892px;
+    height: 478px;
+    left: 63px;
+    top: 147px;
+}
+
+.Meal2 {
+    position: absolute;
+    width: 892px;
+    height: 486px;
+    left: 63px;
+    top: 644px;
+}
+
+.Meal3 {
+    position: absolute;
+    width: 892px;
+    height: 478px;
+    left: 63px;
+    top: 1165px;
+}
+
+.Meal4 {
+    position: absolute;
+    width: 892px;
+    height: 478px;
+    left: 63px;
+    top: 1666px;
+}
+
+.Desert1 {
+    position: absolute;
+    width: 892px;
+    height: 478px;
+    left: 63px;
+    top: 147px;
+}
+
+.Desert2 {
+    position: absolute;
+    width: 892px;
+    height: 486px;
+    left: 63px;
+    top: 644px;
+}
+
+.Drink1 {
+    position: absolute;
+    width: 892px;
+    height: 478px;
+    left: 63px;
+    top: 147px;
+}
+
+.Drink2 {
+    position: absolute;
+    width: 892px;
+    height: 486px;
+    left: 63px;
+    top: 644px;
+}
+
+.BasketBut {
+    position: absolute;
+    width: 59px;
+    height: 62px;
+    left: 926px;
+    top: 27px;
+}

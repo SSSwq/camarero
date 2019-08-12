@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Menu</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> <!-- Boostrap -->
+    <link href="https://fonts.googleapis.com/css?family=Monoton&display=swap" rel="stylesheet"> <!-- Шрифт Monoton -->
+    <link href="https://fonts.googleapis.com/css?family=Nanum+Gothic&display=swap" rel="stylesheet"> <!-- Шрифт Nanum Gothic -->
+    <link href="https://fonts.googleapis.com/css?family=Gudea&display=swap" rel="stylesheet"> <!-- Шрифт Gudea -->
+    <link rel ="stylesheet" href ="style.css">
+</head>
+<body>
+
+<div class="MainScreen">
+
+    <div class="NavLine">
+        <div class="Logo1"><p>Camarero</p></div>
+        <div class="Menu"><p>Menu</p></div>
+        <!— Сюда нужно вставить баскет - кнопку —>
+    </div>
+
+    <div class ="ScrollScreen">
+        <div class="FoodCard1">
+            <a href="InMenu1.php">
+            <img src="FoodCard1%20—%20копия.jpg" class="rounded" alt = "Cinque Terre">
+            </a>
+      </div>
+        <div class="FoodCard2">
+            <a href="InMenu2.php">
+            <img src="FoodCard2%20—%20копия.jpg" class ="rounded" alt="Cinque Terre">
+            </a>
+        </div>
+        <div class="FoodCard3">
+               <a href="InMenu3.php">
+                <img src="FoodCard3%20—%20копия.jpg" class="rounded" alt="Cinque Terre">
+               </a>
+            </div>
+        <div class="FoodCard4">
+            <a href="InMenu4.php">
+                <img src="FoodCard4.jpg" class = "rounded" alt="Cinque Terre">
+            </a>
+            </div>
+        <div class="BotLine">
+            <img src="Botline.jpg">
+        </div>
+    </div>
+</div>
+
+ </div>
+
+<div class="BasketBut">
+    <a href="Basket.php">
+    <img src="icons8-basket-96.jpg">
+    </a>
+</div>
+
+
+
+
+
+<script src="script.js"></script>
+ </body>
+ </html>

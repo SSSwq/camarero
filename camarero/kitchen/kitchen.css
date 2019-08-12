@@ -1,0 +1,220 @@
+.general {
+    width: 1920px;
+}
+.nav_line {
+    position: absolute;
+    width: 1940px;
+    height: 78px;
+    left: -1px;
+    right: -1px;
+    top: -1px;
+    z-index: 2;
+
+    background: #725252;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+#name_dish {
+    position: absolute;
+    width: 195px;
+    height: 44px;
+    left: 100px;
+    top: -15px;
+
+    font-family: Gudea;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+#name_number {
+    position: absolute;
+    width: 195px;
+    height: 44px;
+    left: 450px;
+    top: -15px;
+
+    font-family: Gudea;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+#name_time_of_order {
+    position: absolute;
+    width: 209px;
+    height: 55px;
+    left: 800px;
+    top: -15px;
+
+    font-family: Gudea;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+#name_order_status {
+    position: absolute;
+    width: 209px;
+    height: 55px;
+    left: 1300px;
+    top: -15px;
+
+    font-family: Gudea;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+#name_table_id {
+    position: absolute;
+    width: 209px;
+    height: 52px;
+    left: 1700px;
+    top: -15px;
+
+    font-family: Gudea;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+#h_line_1 {
+    position: absolute;
+    width: 0px;
+    height: 175%;
+    left: 360px;
+    top: 1px;
+
+    border: 4px solid #725252;
+}
+#h_line_2 {
+
+    position: absolute;
+    width: 0px;
+    height: 175%;;
+    left: 700px;
+    top: 0px;
+
+    border: 4px solid #725252;
+}
+#h_line_3 {
+    position: absolute;
+    width: 0px;
+    height: 175%;
+    left: 1100px;
+    top: 0px;
+
+    border: 4px solid #725252;
+}
+#h_line_4 {
+    position: absolute;
+    width: 0px;
+    height: 175%;
+    left: 1670px;
+    top: 0px;
+
+    border: 4px solid #725252;
+}
+#w_line_1 {
+
+    position: absolute;
+    width: 1920px;
+    height: 0px;
+    left: -1px;
+    right: -1px;
+    bottom: -725px;
+
+    border: 4px solid #725252;
+}
+.time {
+    position: absolute;
+    width: 270px;
+    height: 98px;
+    left: 480px;
+    bottom: -5px;
+}
+#border_time {
+    position: absolute;
+    width: 270px;
+    height: 98px;
+    left: 1170px;
+    top: 926px;
+    z-index: 1;
+
+    background: #725252;
+    box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+#now_time {
+    position: absolute;
+    width: 131px;
+    height: 36px;
+    left: 1255px;
+    z-index: 2;
+    top: 900px;
+
+    font-family: NanumGothic;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 48px;
+
+    color: #FFFFFF;
+}
+#cam {
+
+    position: absolute;
+    width: 210px;
+    height: 44px;
+    left: 7px;
+    top: 960px;
+
+    font-family: Monoton;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 40px;
+
+    color: #000000;
+}
+#other_text {
+    position: absolute;
+    width: 222px;
+    height: 21px;
+    left: 7px;
+    top: 1003px;
+
+    font-family: Gudea;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #000000;
+}
+.all_border {
+    position: absolute;
+    width: 300px;
+    height: 65px;
+    bottom: 30px;
+    left: -0%;
+
+}
+.f_dish {
+    position: absolute;
+    top: 400px;
+}
